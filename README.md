@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mahmudrifat522@gmail.com**
 
-- 📄 Know about my experiences [[http://rifatmahmud.rf.gd/](http://rifatmahmud.rf.gd/](https://rifatmahmud.netlify.app/))
+- 📄 Know about my experiences [(https://rifatmahmud.netlify.app/)](https://rifatmahmud.netlify.app/))
 
 - ⚡ Fun fact **Like to talk to much**
 
