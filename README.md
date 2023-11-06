@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Neuroxie](www.neuroxie.com)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on **React Frontend Projects**
+- 👯 I’m looking to collaborate on **Mern Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rifat0001](https://github.com/Rifat0001)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **mahmudrifat522@gmail.com**
 
-- 📄 Know about my experiences [http://rifatmahmud.rf.gd/](http://rifatmahmud.rf.gd/)
+- 📄 Know about my experiences [[http://rifatmahmud.rf.gd/](http://rifatmahmud.rf.gd/](https://rifatmahmud.netlify.app/))
 
 - ⚡ Fun fact **Like to talk to much**
 
