@@ -1,4 +1,4 @@
-![logo]((https://github.com/Rifat0001/Rifat0001/blob/main/github%20banner.png))
+![logo][(https://github.com/Rifat0001/Rifat0001/blob/main/github%20banner.png)]
 <h1 align="center">Hi 👋, I'm Rifat Mahmud</h1>
 <h3 align="center">A Passionate MERN Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400"
